@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/678/problem/A" target="_blank" rel="noopener noreferrer">678A — Johny Likes Numbers</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 678A](https://codeforces.com/contest/678/problem/A) |
+
+## Topics
+`implementation` `math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Johny Likes Numbers</div><div class="time-limit"><div class="property-title">time limit per test</div>0.5 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Johny likes numbers <span class="tex-span"><i>n</i></span> and <span class="tex-span"><i>k</i></span> very much. Now Johny wants to find the smallest integer <span class="tex-span"><i>x</i></span> greater than <span class="tex-span"><i>n</i></span>, so it is divisible by the number <span class="tex-span"><i>k</i></span>.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The only line contains two integers <span class="tex-span"><i>n</i></span> and <span class="tex-span"><i>k</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>k</i> ≤ 10<sup class="upper-index">9</sup></span>).</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print the smallest integer <span class="tex-span"><i>x</i> > <i>n</i></span>, so it is divisible by the number <span class="tex-span"><i>k</i></span>.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id005689604311187553" id="id006348730023356145" class="input-output-copier">Copy</div></div><pre id="id005689604311187553">5 3<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0002661353965042812" id="id006458553606820445" class="input-output-copier">Copy</div></div><pre id="id0002661353965042812">6<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0040520792338819445" id="id0018894405083674148" class="input-output-copier">Copy</div></div><pre id="id0040520792338819445">25 13<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0021141111018891334" id="id008796281394696907" class="input-output-copier">Copy</div></div><pre id="id0021141111018891334">26<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0047286181155290474" id="id009998354841170024" class="input-output-copier">Copy</div></div><pre id="id0047286181155290474">26 13<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id001522978102559729" id="id009696581632012574" class="input-output-copier">Copy</div></div><pre id="id001522978102559729">39<br></pre></div></div></div>
