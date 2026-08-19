@@ -1,0 +1,13 @@
+import sys
+def solve():
+    input_data = sys.stdin.read().split()
+    if not input_data:
+        return
+    a = input_data[0]
+    b = input_data[1]
+    if a == b:
+        print(a)
+    else:
+        print(1)
+if __name__ == '__main__':
+    solve()
