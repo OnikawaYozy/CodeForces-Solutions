@@ -6,23 +6,26 @@
 
 | Total Problems | Topics |
 |---|---|
-| 46 | 11 |
+| 56 | 14 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [*special](#special) (1)
-- [brute force](#brute-force) (6)
+- [*special](#special) (2)
+- [binary search](#binary-search) (1)
+- [brute force](#brute-force) (9)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [dp](#dp) (1)
 - [expression parsing](#expression-parsing) (1)
+- [games](#games) (1)
+- [graphs](#graphs) (1)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (36)
-- [math](#math) (11)
-- [number theory](#number-theory) (3)
-- [sortings](#sortings) (2)
-- [strings](#strings) (12)
+- [implementation](#implementation) (44)
+- [math](#math) (17)
+- [number theory](#number-theory) (4)
+- [sortings](#sortings) (3)
+- [strings](#strings) (13)
 
 ---
 
@@ -31,6 +34,13 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+| 769A | [Year of University Entrance](https://codeforces.com/contest/769/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/769/A%20-%20Year%20of%20University%20Entrance/solution.cpp) |
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
 
 ### brute force
 
@@ -41,6 +51,9 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
+| 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
+| 755A | [PolandBall and Hypothesis](https://codeforces.com/contest/755/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/755/A%20-%20PolandBall%20and%20Hypothesis/solution.cpp) |
+| 811A | [Vladik and Courtesy](https://codeforces.com/contest/811/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/811/A%20-%20Vladik%20and%20Courtesy/solution.cpp) |
 | 855A | [Tom Riddle's Diary](https://codeforces.com/contest/855/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/855/A%20-%20Tom%20Riddle's%20Diary/solution.cpp) |
 
 ### constructive algorithms
@@ -62,6 +75,18 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/32/B%20-%20Borze/solution.cpp) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 832A | [Sasha and Sticks](https://codeforces.com/contest/832/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/832/A%20-%20Sasha%20and%20Sticks/solution.cpp) |
+
+### graphs
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 755A | [PolandBall and Hypothesis](https://codeforces.com/contest/755/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/755/A%20-%20PolandBall%20and%20Hypothesis/solution.cpp) |
 
 ### greedy
 
@@ -108,8 +133,16 @@
 | 710A | [King Moves](https://codeforces.com/contest/710/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/710/A%20-%20King%20Moves/solution.cpp) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 746A | [Compote](https://codeforces.com/contest/746/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/746/A%20-%20Compote/solution.cpp) |
+| 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
+| 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
+| 769A | [Year of University Entrance](https://codeforces.com/contest/769/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/769/A%20-%20Year%20of%20University%20Entrance/solution.cpp) |
+| 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
 | 802G1 | [Fake News (easy)](https://codeforces.com/contest/802/problem/G1) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/802/G1%20-%20Fake%20News%20(easy)/solution.cpp) |
+| 811A | [Vladik and Courtesy](https://codeforces.com/contest/811/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/811/A%20-%20Vladik%20and%20Courtesy/solution.cpp) |
+| 818A | [Diplomas and Certificates](https://codeforces.com/contest/818/problem/A) | 800 | [PyPy 3-64](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/818/A%20-%20Diplomas%20and%20Certificates/solution.txt) |
 | 822A | [I'm bored with life](https://codeforces.com/contest/822/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/822/A%20-%20I'm%20bored%20with%20life/solution.cpp) |
+| 837A | [Text Volume](https://codeforces.com/contest/837/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/837/A%20-%20Text%20Volume/solution.cpp) |
 | 851A | [Arpa and a research in Mexican wave](https://codeforces.com/contest/851/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/851/A%20-%20Arpa%20and%20a%20research%20in%20Mexican%20wave/solution.cpp) |
 | 855A | [Tom Riddle's Diary](https://codeforces.com/contest/855/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/855/A%20-%20Tom%20Riddle's%20Diary/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
@@ -127,7 +160,13 @@
 | 664A | [Complicated GCD](https://codeforces.com/contest/664/problem/A) | 800 | [PyPy 3-64](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/664/A%20-%20Complicated%20GCD/solution.txt) |
 | 678A | [Johny Likes Numbers](https://codeforces.com/contest/678/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/678/A%20-%20Johny%20Likes%20Numbers/solution.cpp) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
+| 746A | [Compote](https://codeforces.com/contest/746/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/746/A%20-%20Compote/solution.cpp) |
+| 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
+| 755A | [PolandBall and Hypothesis](https://codeforces.com/contest/755/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/755/A%20-%20PolandBall%20and%20Hypothesis/solution.cpp) |
+| 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
+| 818A | [Diplomas and Certificates](https://codeforces.com/contest/818/problem/A) | 800 | [PyPy 3-64](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/818/A%20-%20Diplomas%20and%20Certificates/solution.txt) |
 | 822A | [I'm bored with life](https://codeforces.com/contest/822/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/822/A%20-%20I'm%20bored%20with%20life/solution.cpp) |
+| 832A | [Sasha and Sticks](https://codeforces.com/contest/832/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/832/A%20-%20Sasha%20and%20Sticks/solution.cpp) |
 | 851A | [Arpa and a research in Mexican wave](https://codeforces.com/contest/851/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/851/A%20-%20Arpa%20and%20a%20research%20in%20Mexican%20wave/solution.cpp) |
 
 ### number theory
@@ -136,6 +175,7 @@
 |---|---------|------------|----------|
 | 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.cpp) |
 | 664A | [Complicated GCD](https://codeforces.com/contest/664/problem/A) | 800 | [PyPy 3-64](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/664/A%20-%20Complicated%20GCD/solution.txt) |
+| 755A | [PolandBall and Hypothesis](https://codeforces.com/contest/755/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/755/A%20-%20PolandBall%20and%20Hypothesis/solution.cpp) |
 | 822A | [I'm bored with life](https://codeforces.com/contest/822/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/822/A%20-%20I'm%20bored%20with%20life/solution.cpp) |
 
 ### sortings
@@ -143,6 +183,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 609A | [USB Flash Drives](https://codeforces.com/contest/609/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/609/A%20-%20USB%20Flash%20Drives/solution.cpp) |
+| 769A | [Year of University Entrance](https://codeforces.com/contest/769/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/769/A%20-%20Year%20of%20University%20Entrance/solution.cpp) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
 
 ### strings
@@ -158,6 +199,7 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [PyPy 3-64](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/520/A%20-%20Pangram/solution.txt) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
 | 802G1 | [Fake News (easy)](https://codeforces.com/contest/802/problem/G1) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/802/G1%20-%20Fake%20News%20(easy)/solution.cpp) |
 | 855A | [Tom Riddle's Diary](https://codeforces.com/contest/855/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/855/A%20-%20Tom%20Riddle's%20Diary/solution.cpp) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
