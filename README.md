@@ -6,28 +6,78 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 16 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (1)
-- [math](#math) (1)
+- [brute force](#brute-force) (4)
+- [expression parsing](#expression-parsing) (1)
+- [greedy](#greedy) (1)
+- [implementation](#implementation) (11)
+- [math](#math) (4)
+- [strings](#strings) (7)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 47A | [Triangular numbers](https://codeforces.com/contest/47/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/47/A%20-%20Triangular%20numbers/solution.cpp) |
+| 80A | [Panoramix's Prediction](https://codeforces.com/contest/80/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/80/A%20-%20Panoramix's%20Prediction/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 855A | [Tom Riddle's Diary](https://codeforces.com/contest/855/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/855/A%20-%20Tom%20Riddle's%20Diary/solution.cpp) |
+
+### expression parsing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/32/B%20-%20Borze/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 16A | [Flag](https://codeforces.com/contest/16/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/16/A%20-%20Flag/solution.cpp) |
+| 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/32/B%20-%20Borze/solution.cpp) |
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
+| 49A | [Sleuth](https://codeforces.com/contest/49/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/49/A%20-%20Sleuth/solution.cpp) |
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/59/A%20-%20Word/solution.cpp) |
+| 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.cpp) |
+| 92A | [Chips](https://codeforces.com/contest/92/problem/A) | 800 | [PyPy 3-64](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/92/A%20-%20Chips/solution.txt) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 851A | [Arpa and a research in Mexican wave](https://codeforces.com/contest/851/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/851/A%20-%20Arpa%20and%20a%20research%20in%20Mexican%20wave/solution.cpp) |
+| 855A | [Tom Riddle's Diary](https://codeforces.com/contest/855/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/855/A%20-%20Tom%20Riddle's%20Diary/solution.cpp) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 47A | [Triangular numbers](https://codeforces.com/contest/47/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/47/A%20-%20Triangular%20numbers/solution.cpp) |
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 92A | [Chips](https://codeforces.com/contest/92/problem/A) | 800 | [PyPy 3-64](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/92/A%20-%20Chips/solution.txt) |
 | 851A | [Arpa and a research in Mexican wave](https://codeforces.com/contest/851/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/851/A%20-%20Arpa%20and%20a%20research%20in%20Mexican%20wave/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/59/A%20-%20Word/solution.cpp) |
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
+| 99A | [Help Far Away Kingdom](https://codeforces.com/contest/99/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/99/A%20-%20Help%20Far%20Away%20Kingdom/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
+| 855A | [Tom Riddle's Diary](https://codeforces.com/contest/855/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/855/A%20-%20Tom%20Riddle's%20Diary/solution.cpp) |
 
 ---
 
