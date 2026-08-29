@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 56 | 14 |
+| 57 | 15 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
+- [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (9)
 - [constructive algorithms](#constructive-algorithms) (3)
@@ -35,6 +36,12 @@
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 769A | [Year of University Entrance](https://codeforces.com/contest/769/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/769/A%20-%20Year%20of%20University%20Entrance/solution.cpp) |
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
 
 ### binary search
 
