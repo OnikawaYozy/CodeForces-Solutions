@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 3 |
+| 7 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (5)
+- [Uncategorized](#uncategorized) (6)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (1)
 
@@ -27,6 +27,7 @@
 | 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.cpp) |
 | 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
 | 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.cpp) |
+| 2276B | [Replace and Compress](https://codeforces.com/contest/2276/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/OnikawaYozy/CodeForces-Solutions/blob/HEAD/2276/B%20-%20Replace%20and%20Compress/solution.cpp) |
 
 ### constructive algorithms
 
